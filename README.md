@@ -11,6 +11,8 @@ Original:
 
 [city]: img/Albers-and-The-Bauhaus-1024x539.png "City (1928)"
 
-Fonte:
+Fontes:
 
 http://www.aestheticamagazine.com/albers-the-bauhaus-stephen-friedman-gallery-london/
+
+https://www.artrabbit.com/events/albers-the-bauhaus
